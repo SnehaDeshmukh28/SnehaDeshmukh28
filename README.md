@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SnehaDeshmukh28
 - 👀 I’m interested in Coding and Travelling 
+- 😎 My Holopin Digital Badge Board: [![@snehadeshmukh's Holopin board](https://holopin.me/snehadeshmukh)](https://holopin.io/@snehadeshmukh)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
