@@ -28,7 +28,7 @@
 
 
 <h3 align="left">😎 My Holopin Digital Badge Board:</h3> 
-[![An image of @snehadeshmukh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehadeshmukh)](https://holopin.io/@snehadeshmukh)
+![An image of @snehadeshmukh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehadeshmukh)(https://holopin.io/@snehadeshmukh)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehadeshmukh28&show_icons=true&locale=en&layout=compact" alt="snehadeshmukh28" /></p>
 
