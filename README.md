@@ -1,4 +1,4 @@
-![logo](https://github.com/SnehaDeshmukh28/SnehaDeshmukh28/blob/main/GitHub%20Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Sneha Deshmukh</h1>
 <h3 align="center">🚀 Code crafter in the world of 1s and 0s | GenAI Enthusiast| Frontend wizard 🧙‍♂️ | Bachelors in CSE, final-year sorcerer 🔮 | Crafting pixel-perfect dreams 🌈 | MERN stack maestro in the making 🛠️ | AIML explorer 🤖 | Let's turn caffeine into code! ☕✨</h3>
