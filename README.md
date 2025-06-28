@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://linktr.ee/SnehaDeshmukh**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iHJ_-hV0i5Mu5nl11K2PQhVAPhC-MxNt/view?usp=sharing](https://drive.google.com/file/d/1iHJ_-hV0i5Mu5nl11K2PQhVAPhC-MxNt/view?usp=sharing)
+- 📄 Know about my experiences [https://snehadeshmukh.me](https://snehadeshmukh.me)
 
 - ⚡ Fun fact **This coding ninja travels the binary highways, turning code bugs into feature-packed souvenirs—because debugging is the ultimate travel adventure! ✈️🐜💻**
 
