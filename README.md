@@ -30,4 +30,4 @@
 [![An image of @snehadeshmukh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehadeshmukh)](https://holopin.io/@snehadeshmukh)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehadeshmukh28&" alt="snehadeshmukh28" /></p>
+/* <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehadeshmukh28&" alt="snehadeshmukh28" /></p> */
