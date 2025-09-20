@@ -48,7 +48,7 @@ My research focuses on **fairness in AI systems** and **judicial decision predic
 
 ### [MediSync](https://github.com/SnehaDeshmukh28/MediSync) 🥈
 **SIH 2023 Grand Finalist** - Healthcare management and synchronization platform
-- *Technologies*: Full-stack development, Healthcare data management
+- *Technologies*: Full-stack development, Machine Learning, Computer Vision, Healthcare data management
 
 ### [RecruiteRite](https://github.com/SnehaDeshmukh28/RecruiteRite)
 AI-powered recruitment optimization platform
