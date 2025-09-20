@@ -1,33 +1,96 @@
+# Sneha Deshmukh
 
+**Data Scientist** | **Research Scholar** | **SIH Winner & Grand Finalist** | **Open Source Contributor**
 
-<h1 align="center">Hi 👋, I'm Sneha Deshmukh</h1>
-<h3 align="center">🚀SIH 24' Winner & SIH 23' Grand Finalist | Data Scientist | 10x Hackathons |  Building Products </h3>
+<div align="center">
 
-<img align = "right" alt = "coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+[![Profile Views](https://komarev.com/ghpvc/?username=snehadeshmukh28&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/snehadeshmukh28)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehaadeshmukh/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/snehdeshmukh)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://snehadeshmukh.me)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehadeshmukh28&label=Profile%20views&color=0e75b6&style=flat" alt="snehadeshmukh28" /> </p>
+</div>
 
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/SnehaDeshmukh28](https://github.com/SnehaDeshmukh28)
+## About Me
 
-- 📫 How to reach me **https://linktr.ee/SnehaDeshmukh**
+I'm a passionate **Data Scientist** at **Schindler** with a strong background in **AI/ML research**, particularly in **Legal AI** and **Natural Language Processing**. Also served as **General Secretary** for the Computer Society of India Student Chapter (2024-25), I've successfully led innovative projects that bridge technology with real-world impact.
 
-- 📄 Know about my experiences [https://snehadeshmukh.me](https://snehadeshmukh.me)
+My research focuses on **fairness in AI systems** and **judicial decision prediction**, with published work contributing to the academic community and practical applications in the legal domain.
 
-- ⚡ Fun fact **This coding ninja travels the binary highways, turning code bugs into feature-packed souvenirs—because debugging is the ultimate travel adventure! ✈️🐜💻**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/snehdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehdeshmukh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sneha-deshmukh-761b2b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-deshmukh-761b2b24b" height="30" width="40" /></a>
-<a href="https://instagram.com/sneha_deshmukh28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha_deshmukh28" height="30" width="40" /></a>
-</p>
+## 🏆 Key Achievements
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### **Smart India Hackathon**
+- **🥇 SIH 2024 Winner** - [AquaDB](https://github.com/SnehaDeshmukh28/AquaDB) - Marine data management system for INCOIS
+- **🥈 SIH 2023 Grand Finalist** - [MediSync](https://github.com/SnehaDeshmukh28/MediSync) - Healthcare management platform
 
+### **Research & Publications**
+- **📄 Published Research Paper**: *"From Data to Equity: Predicting and Auditing Fairness in Indian Bail Decisions"* - [arXiv:2507.02506](https://arxiv.org/pdf/2507.02506)
+- **📊 Featured Dataset**: [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200) | [🤗 Hugging Face](https://huggingface.co/datasets/SnehaDeshmukh/IndianBailJudgments-1200) *(1100+ downloads)*
 
-[![An image of @snehadeshmukh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehadeshmukh)](https://holopin.io/@snehadeshmukh)
+### **Professional Experience**
+- **📊 Data Scientist** - Schindler (Current)
+- **🔬 Research Assistant** - RIAWELC Project (CNN models: ResNet, MobileNet, InceptionNet)
 
+### **Leadership**
+- **👥 General Secretary** - Computer Society of India Student Chapter (2024-25)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehadeshmukh28&" alt="snehadeshmukh28" /></p> -->
+---
+
+## 🚀 Featured Projects
+
+### [AquaDB](https://github.com/SnehaDeshmukh28/AquaDB) 🏆
+**SIH 2024 Winner** - Comprehensive marine data management system for Indian National Centre for Ocean Information Services (INCOIS)
+- *Technologies*: JavaScript, Database Management, Marine Data Analytics
+
+### [MediSync](https://github.com/SnehaDeshmukh28/MediSync) 🥈
+**SIH 2023 Grand Finalist** - Healthcare management and synchronization platform
+- *Technologies*: Full-stack development, Healthcare data management
+
+### [RecruiteRite](https://github.com/SnehaDeshmukh28/RecruiteRite)
+AI-powered recruitment optimization platform
+- *Technologies*: Machine Learning, Natural Language Processing
+
+### [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200)
+Curated dataset for legal AI research with comprehensive fairness analysis, India's first one of it's kind dataset
+- *Impact*: 1100+ downloads on Hugging Face, cited in academic research
+- *Technologies*: Legal NLP, Data Curation, Fairness Analysis
+
+---
+
+## 🔬 Research Interests
+
+- **Legal AI & Judicial Decision Systems**
+- **Fairness and Bias in Machine Learning**
+- **Natural Language Processing**
+- **Healthcare AI Solutions**
+
+---
+
+## 📈 Technical Impact
+
+- **10+ Hackathons** participated with multiple wins and recognitions
+- **Research Student** working with LegalAI
+- **Technical Speaker** organized 10+ technical events, workshops and hackathons with 1500+ participants
+
+---
+
+## 📫 Let's Connect
+
+- **Portfolio**: [snehadeshmukh.me](https://snehadeshmukh.me)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/snehaadeshmukh/)
+- **Hugging Face**: [Hugging Face](https://huggingface.co/SnehaDeshmukh)
+- **GitHub**: [GitHub Profile](https://github.com/SnehaDeshmukh28)
+
+---
+
+<div align="center">
+
+*"Turning data insights into meaningful impact through research and innovation"*
+
+**Open to collaboration on AI research, legal tech, and impactful data science projects**
+
+</div>
