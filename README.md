@@ -29,7 +29,7 @@ My research focuses on **fairness in AI systems** and **judicial decision predic
 
 ### **Research & Publications**
 - **📄 Published Research Paper**: *"From Data to Equity: Predicting and Auditing Fairness in Indian Bail Decisions"* - [arXiv:2507.02506](https://arxiv.org/pdf/2507.02506)
-- **📊 Featured Dataset**: [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200) | [🤗 Hugging Face](https://huggingface.co/datasets/SnehaDeshmukh/IndianBailJudgments-1200) *(1100+ downloads)*
+- **📊 Featured Dataset**: [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200) | [🤗 Hugging Face](https://huggingface.co/datasets/SnehaDeshmukh/IndianBailJudgments-1200) *(1200+ downloads)*
 
 ### **Professional Experience**
 - **📊 Data Scientist** - Schindler (Current)
