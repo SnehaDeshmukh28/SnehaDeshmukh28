@@ -60,7 +60,7 @@ AI-powered recruitment optimization platform
 
 ### [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200)
 Curated dataset for legal AI research with comprehensive fairness analysis, India's first one of it's kind dataset
-- *Impact*: 1100+ downloads on Hugging Face, cited in academic research
+- *Impact*: 3300+ downloads on Hugging Face, cited in academic research
 - *Technologies*: Legal NLP, Data Curation, Fairness Analysis
 
 ---
