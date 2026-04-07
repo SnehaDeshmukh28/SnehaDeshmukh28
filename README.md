@@ -28,12 +28,12 @@ My research focuses on **fairness in AI systems** and **judicial decision predic
 - **🥈 SIH 2023 Grand Finalist** - [MediSync](https://github.com/SnehaDeshmukh28/MediSync) - Healthcare management platform
 
 ### **Research & Publications**
-- **📄 Peer-Reviewed Publication (JURIX 2025)**: *"From Data to Equity: Predicting and Auditing Fairness in Indian Bail Decisions"*  
+- **📄 Peer-Reviewed Publication (JURIX 2025 Turin, Italy)**: *"From Data to Equity: Predicting and Auditing Fairness in Indian Bail Decisions"*  
   Published in **JURIX 2025 (International Conference on Legal Knowledge and Information Systems)**  
   **IOS Press, Frontiers in Artificial Intelligence and Applications (FAIA Series)**  
   [📖 Read Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA251599) | DOI: 10.3233/FAIA251599
 - **📄 Published Paper**: *"IndianBailJudgments-1200: A Multi-Attribute Dataset for Legal NLP on Indian Bail Orders"* - [arXiv:2507.02506](https://arxiv.org/pdf/2507.02506)
-- **📊 Featured Dataset**: [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200) | [🤗 Hugging Face](https://huggingface.co/datasets/SnehaDeshmukh/IndianBailJudgments-1200) *(1200+ downloads)*
+- **📊 Featured Dataset**: [IndianBailJudgments-1200](https://github.com/SnehaDeshmukh28/IndianBailJudgments-1200) | [🤗 Hugging Face](https://huggingface.co/datasets/SnehaDeshmukh/IndianBailJudgments-1200) *(3500+ downloads)*
 
 ### **Professional Experience**
 - **📊 Data Scientist** - Schindler (Current)
