@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a passionate **Data Scientist** with a strong background in **AI/ML research**, particularly in **Legal AI** and **Natural Language Processing**. Also served as **General Secretary** for the Computer Society of India Student Chapter (2024-25), I've successfully led innovative projects that bridge technology with real-world impact.
+I'm a **Data Scientist** with a strong background in **AI/ML research**, particularly in **Legal AI** and **Natural Language Processing**. Also served as **General Secretary** for the Computer Society of India Student Chapter (2024-25), I've successfully led innovative projects that bridge technology with real-world impact.
 
 My research focuses on **fairness in AI systems** and **judicial decision prediction**, with published work contributing to the academic community and practical applications in the legal domain.
 
